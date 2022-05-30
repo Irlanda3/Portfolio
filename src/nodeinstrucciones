@@ -1,0 +1,74 @@
+(base) chikior@Chikis-MacBook-Pro tutorial % npx create-rea
+ct-app amozon
+zsh: command not found: npx
+(base) chikior@Chikis-MacBook-Pro tutorial % npx create-react-app amozon
+Need to install the following packages:
+  create-react-app
+Ok to proceed? (y) y
+npm WARN deprecated tar@2.2.2: This version of tar is no longer supported, and will not receive security updates. Please upgrade asap.
+
+Creating a new React app in /Users/chikior/Documents/react app/tutorial/amozon.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+added 1383 packages in 2m
+
+185 packages are looking for funding
+  run `npm fund` for details
+
+Initialized a git repository.
+
+Installing template dependencies using npm...
+npm WARN deprecated source-map-resolve@0.6.0: See https://github.com/lydell/source-map-resolve#deprecated
+
+added 39 packages in 7s
+
+185 packages are looking for funding
+  run `npm fund` for details
+Removing template package using npm...
+
+
+removed 1 package, and audited 1422 packages in 5s
+
+185 packages are looking for funding
+  run `npm fund` for details
+
+6 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+Created git commit.
+
+Success! Created amozon at /Users/chikior/Documents/react app/tutorial/amozon
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd amozon
+  npm start
+
+Happy hacking!
+npm notice 
+npm notice New minor version of npm available! 8.5.5 -> 8.11.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v8.11.0
+npm notice Run npm install -g npm@8.11.0 to update!
+npm notice 
+(base) chikior@Chikis-MacBook-Pro tutorial %  
