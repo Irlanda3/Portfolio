@@ -1,19 +1,21 @@
 import React from 'react';
+import Search from './Search';
+import './Menu.css'
 
 function Menu(props){
     return(
         <div className="container">
             <div className="subcontainer">
                 <div className="logo">
-
+                    {props.title}
                 </div>
-                
-                <div className="search">
 
+                <div className="search">
+                    <Search /> t
                 </div>
 
                 <div className="actions">
-
+                    <button className="button btn-blue">+ Anadir nuevo libro</button>
                 </div>
 
             </div>
