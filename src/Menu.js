@@ -11,7 +11,7 @@ function Menu(props){
                 </div>
 
                 <div className="search">
-                    <Search /> t
+                    <Search /> 
                 </div>
 
                 <div className="actions">
